@@ -23,7 +23,12 @@ h2{
 }
 nav{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
+    border: 2px solid black;
+}
+a{
+    text-decoration: none;
+    color: black;
 }
 .karti2{
     display: flex;
