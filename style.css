@@ -1,0 +1,31 @@
+body {
+    font-family: trebuchet ms;
+}
+header{
+    background-color: #D1C135;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+}
+main{
+    background-color: #EAEBDB;
+}
+footer{
+    background-color: #D1C135;
+}
+h2{
+    text-align: center;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
